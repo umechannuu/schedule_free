@@ -1,0 +1,14 @@
+{
+    "model_name": "resnet18",
+    "lr_method": "warmup_cosine",
+    "bs_method": "constant",
+    "init_bs": 128,
+    "init_lr": 0.1,
+    "lr_max": 0.2,
+    "epochs": 200,
+    "warmup_epochs":30,
+    "warmup_interval":3,
+    "optimizer": "sgd",
+    "checkpoint_path": "checkpoint/test2_sgd.pth.tar",
+    "csv_path": "result/const_bs_schedulefree/test2/"
+}

@@ -1,0 +1,1215 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Using model: resnet18
+Using device: cuda:0
+Using optimizer: SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.1
+    maximize: False
+    momentum: 0.9
+    nesterov: False
+    weight_decay: 0
+)
+Batch size: 128
+learning rate: 0.1
+
+Epoch: 0
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 1, Steps: 391, Train Loss: 3.9647, Test Acc: 14.41%
+Batch size: 128
+learning rate: 0.1
+
+Epoch: 1
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 2, Steps: 782, Train Loss: 3.3772, Test Acc: 22.82%
+Batch size: 128
+learning rate: 0.1
+
+Epoch: 2
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 3, Steps: 1173, Train Loss: 2.9809, Test Acc: 30.84%
+Batch size: 128
+learning rate: 0.10800597388923061
+
+Epoch: 3
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 4, Steps: 1564, Train Loss: 2.6588, Test Acc: 35.14%
+Batch size: 128
+learning rate: 0.10800597388923061
+
+Epoch: 4
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 5, Steps: 1955, Train Loss: 2.3718, Test Acc: 41.41%
+Batch size: 128
+learning rate: 0.10800597388923061
+
+Epoch: 5
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 6, Steps: 2346, Train Loss: 2.1265, Test Acc: 45.89%
+Batch size: 128
+learning rate: 0.11665290395761166
+
+Epoch: 6
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 7, Steps: 2737, Train Loss: 1.9345, Test Acc: 49.07%
+Batch size: 128
+learning rate: 0.11665290395761166
+
+Epoch: 7
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 8, Steps: 3128, Train Loss: 1.7549, Test Acc: 52.46%
+Batch size: 128
+learning rate: 0.11665290395761166
+
+Epoch: 8
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 9, Steps: 3519, Train Loss: 1.6007, Test Acc: 56.00%
+Batch size: 128
+learning rate: 0.1259921049894873
+
+Epoch: 9
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 10, Steps: 3910, Train Loss: 1.4986, Test Acc: 56.06%
+Batch size: 128
+learning rate: 0.1259921049894873
+
+Epoch: 10
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 11, Steps: 4301, Train Loss: 1.3847, Test Acc: 60.10%
+Batch size: 128
+learning rate: 0.1259921049894873
+
+Epoch: 11
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 12, Steps: 4692, Train Loss: 1.2733, Test Acc: 59.45%
+Batch size: 128
+learning rate: 0.13607900001743767
+
+Epoch: 12
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 13, Steps: 5083, Train Loss: 1.2079, Test Acc: 59.81%
+Batch size: 128
+learning rate: 0.13607900001743767
+
+Epoch: 13
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 14, Steps: 5474, Train Loss: 1.1181, Test Acc: 62.50%
+Batch size: 128
+learning rate: 0.13607900001743767
+
+Epoch: 14
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 15, Steps: 5865, Train Loss: 1.0305, Test Acc: 62.53%
+Batch size: 128
+learning rate: 0.14697344922755984
+
+Epoch: 15
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 16, Steps: 6256, Train Loss: 0.9857, Test Acc: 63.40%
+Batch size: 128
+learning rate: 0.14697344922755984
+
+Epoch: 16
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 17, Steps: 6647, Train Loss: 0.9121, Test Acc: 63.50%
+Batch size: 128
+learning rate: 0.14697344922755984
+
+Epoch: 17
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 18, Steps: 7038, Train Loss: 0.8431, Test Acc: 63.71%
+Batch size: 128
+learning rate: 0.15874010519681991
+
+Epoch: 18
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 19, Steps: 7429, Train Loss: 0.8123, Test Acc: 64.94%
+Batch size: 128
+learning rate: 0.15874010519681991
+
+Epoch: 19
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 20, Steps: 7820, Train Loss: 0.7538, Test Acc: 63.71%
+Batch size: 128
+learning rate: 0.15874010519681991
+
+Epoch: 20
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 21, Steps: 8211, Train Loss: 0.6941, Test Acc: 64.16%
+Batch size: 128
+learning rate: 0.17144879657061451
+
+Epoch: 21
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 22, Steps: 8602, Train Loss: 0.6757, Test Acc: 64.20%
+Batch size: 128
+learning rate: 0.17144879657061451
+
+Epoch: 22
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 23, Steps: 8993, Train Loss: 0.6210, Test Acc: 64.28%
+Batch size: 128
+learning rate: 0.17144879657061451
+
+Epoch: 23
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 24, Steps: 9384, Train Loss: 0.5647, Test Acc: 64.47%
+Batch size: 128
+learning rate: 0.18517494245745802
+
+Epoch: 24
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 25, Steps: 9775, Train Loss: 0.5685, Test Acc: 64.41%
+Batch size: 128
+learning rate: 0.18517494245745802
+
+Epoch: 25
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 26, Steps: 10166, Train Loss: 0.5290, Test Acc: 64.33%
+Batch size: 128
+learning rate: 0.18517494245745802
+
+Epoch: 26
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 27, Steps: 10557, Train Loss: 0.4742, Test Acc: 65.24%
+Batch size: 128
+learning rate: 0.1999999999999999
+
+Epoch: 27
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 28, Steps: 10948, Train Loss: 0.4721, Test Acc: 65.30%
+Batch size: 128
+learning rate: 0.1999999999999999
+
+Epoch: 28
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 29, Steps: 11339, Train Loss: 0.4285, Test Acc: 65.31%
+Batch size: 128
+learning rate: 0.1999999999999999
+
+Epoch: 29
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 30, Steps: 11730, Train Loss: 0.4098, Test Acc: 64.73%
+Batch size: 128
+learning rate: 0.2
+
+Epoch: 30
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 31, Steps: 12121, Train Loss: 0.3746, Test Acc: 65.06%
+Batch size: 128
+learning rate: 0.19998292504580528
+
+Epoch: 31
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 32, Steps: 12512, Train Loss: 0.3377, Test Acc: 65.53%
+Batch size: 128
+learning rate: 0.19993170601430232
+
+Epoch: 32
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 33, Steps: 12903, Train Loss: 0.3196, Test Acc: 64.95%
+Batch size: 128
+learning rate: 0.19984636039674342
+
+Epoch: 33
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 34, Steps: 13294, Train Loss: 0.2970, Test Acc: 65.25%
+Batch size: 128
+learning rate: 0.19972691733857884
+
+Epoch: 34
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 35, Steps: 13685, Train Loss: 0.2583, Test Acc: 65.83%
+Batch size: 128
+learning rate: 0.19957341762950345
+
+Epoch: 35
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 36, Steps: 14076, Train Loss: 0.2561, Test Acc: 66.46%
+Batch size: 128
+learning rate: 0.1993859136895274
+
+Epoch: 36
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 37, Steps: 14467, Train Loss: 0.2383, Test Acc: 64.79%
+Batch size: 128
+learning rate: 0.19916446955107428
+
+Epoch: 37
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 38, Steps: 14858, Train Loss: 0.2167, Test Acc: 66.17%
+Batch size: 128
+learning rate: 0.19890916083711463
+
+Epoch: 38
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 39, Steps: 15249, Train Loss: 0.2134, Test Acc: 66.33%
+Batch size: 128
+learning rate: 0.19862007473534027
+
+Epoch: 39
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 40, Steps: 15640, Train Loss: 0.1899, Test Acc: 66.45%
+Batch size: 128
+learning rate: 0.1982973099683902
+
+Epoch: 40
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 41, Steps: 16031, Train Loss: 0.1745, Test Acc: 66.10%
+Batch size: 128
+learning rate: 0.1979409767601366
+
+Epoch: 41
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 42, Steps: 16422, Train Loss: 0.1657, Test Acc: 65.72%
+Batch size: 128
+learning rate: 0.19755119679804367
+
+Epoch: 42
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 43, Steps: 16813, Train Loss: 0.1597, Test Acc: 66.12%
+Batch size: 128
+learning rate: 0.1971281031916114
+
+Epoch: 43
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 44, Steps: 17204, Train Loss: 0.1443, Test Acc: 65.81%
+Batch size: 128
+learning rate: 0.19667184042691876
+
+Epoch: 44
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 45, Steps: 17595, Train Loss: 0.1424, Test Acc: 66.75%
+Batch size: 128
+learning rate: 0.19618256431728193
+
+Epoch: 45
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 46, Steps: 17986, Train Loss: 0.1310, Test Acc: 67.13%
+Batch size: 128
+learning rate: 0.1956604419500441
+
+Epoch: 46
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 47, Steps: 18377, Train Loss: 0.1190, Test Acc: 66.53%
+Batch size: 128
+learning rate: 0.19510565162951538
+
+Epoch: 47
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 48, Steps: 18768, Train Loss: 0.1185, Test Acc: 66.56%
+Batch size: 128
+learning rate: 0.19451838281608197
+
+Epoch: 48
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 49, Steps: 19159, Train Loss: 0.1090, Test Acc: 66.71%
+Batch size: 128
+learning rate: 0.19389883606150568
+
+Epoch: 49
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 50, Steps: 19550, Train Loss: 0.1009, Test Acc: 67.02%
+Batch size: 128
+learning rate: 0.1932472229404356
+
+Epoch: 50
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 51, Steps: 19941, Train Loss: 0.1007, Test Acc: 66.38%
+Batch size: 128
+learning rate: 0.19256376597815564
+
+Epoch: 51
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 52, Steps: 20332, Train Loss: 0.0996, Test Acc: 66.70%
+Batch size: 128
+learning rate: 0.1918486985745923
+
+Epoch: 52
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 53, Steps: 20723, Train Loss: 0.0927, Test Acc: 66.95%
+Batch size: 128
+learning rate: 0.19110226492460886
+
+Epoch: 53
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 54, Steps: 21114, Train Loss: 0.0867, Test Acc: 66.57%
+Batch size: 128
+learning rate: 0.1903247199346129
+
+Epoch: 54
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 55, Steps: 21505, Train Loss: 0.0861, Test Acc: 66.86%
+Batch size: 128
+learning rate: 0.18951632913550626
+
+Epoch: 55
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 56, Steps: 21896, Train Loss: 0.0746, Test Acc: 66.89%
+Batch size: 128
+learning rate: 0.1886773685920062
+
+Epoch: 56
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 57, Steps: 22287, Train Loss: 0.0709, Test Acc: 67.38%
+Batch size: 128
+learning rate: 0.1878081248083698
+
+Epoch: 57
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 58, Steps: 22678, Train Loss: 0.0763, Test Acc: 67.17%
+Batch size: 128
+learning rate: 0.18690889463055282
+
+Epoch: 58
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 59, Steps: 23069, Train Loss: 0.0712, Test Acc: 67.03%
+Batch size: 128
+learning rate: 0.18597998514483727
+
+Epoch: 59
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 60, Steps: 23460, Train Loss: 0.0654, Test Acc: 67.81%
+Batch size: 128
+learning rate: 0.18502171357296143
+
+Epoch: 60
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 61, Steps: 23851, Train Loss: 0.0656, Test Acc: 67.80%
+Batch size: 128
+learning rate: 0.18403440716378927
+
+Epoch: 61
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 62, Steps: 24242, Train Loss: 0.0640, Test Acc: 67.16%
+Batch size: 128
+learning rate: 0.18301840308155506
+
+Epoch: 62
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 63, Steps: 24633, Train Loss: 0.0568, Test Acc: 67.67%
+Batch size: 128
+learning rate: 0.18197404829072214
+
+Epoch: 63
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 64, Steps: 25024, Train Loss: 0.0532, Test Acc: 67.80%
+Batch size: 128
+learning rate: 0.18090169943749476
+
+Epoch: 64
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 65, Steps: 25415, Train Loss: 0.0507, Test Acc: 67.75%
+Batch size: 128
+learning rate: 0.17980172272802397
+
+Epoch: 65
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 66, Steps: 25806, Train Loss: 0.0488, Test Acc: 67.66%
+Batch size: 128
+learning rate: 0.17867449380334832
+
+Epoch: 66
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 67, Steps: 26197, Train Loss: 0.0515, Test Acc: 68.03%
+Batch size: 128
+learning rate: 0.177520397611113
+
+Epoch: 67
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 68, Steps: 26588, Train Loss: 0.0423, Test Acc: 67.65%
+Batch size: 128
+learning rate: 0.17633982827411032
+
+Epoch: 68
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 69, Steps: 26979, Train Loss: 0.0407, Test Acc: 67.59%
+Batch size: 128
+learning rate: 0.17513318895568736
+
+Epoch: 69
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 70, Steps: 27370, Train Loss: 0.0379, Test Acc: 67.73%
+Batch size: 128
+learning rate: 0.1739008917220659
+
+Epoch: 70
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 71, Steps: 27761, Train Loss: 0.0355, Test Acc: 67.71%
+Batch size: 128
+learning rate: 0.17264335740162243
+
+Epoch: 71
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 72, Steps: 28152, Train Loss: 0.0351, Test Acc: 68.39%
+Batch size: 128
+learning rate: 0.17136101544117524
+
+Epoch: 72
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 73, Steps: 28543, Train Loss: 0.0345, Test Acc: 68.20%
+Batch size: 128
+learning rate: 0.1700543037593291
+
+Epoch: 73
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 74, Steps: 28934, Train Loss: 0.0326, Test Acc: 68.25%
+Batch size: 128
+learning rate: 0.16872366859692628
+
+Epoch: 74
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 75, Steps: 29325, Train Loss: 0.0287, Test Acc: 68.56%
+Batch size: 128
+learning rate: 0.16736956436465575
+
+Epoch: 75
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 76, Steps: 29716, Train Loss: 0.0307, Test Acc: 68.74%
+Batch size: 128
+learning rate: 0.16599245348787228
+
+Epoch: 76
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 77, Steps: 30107, Train Loss: 0.0300, Test Acc: 67.93%
+Batch size: 128
+learning rate: 0.16459280624867875
+
+Epoch: 77
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 78, Steps: 30498, Train Loss: 0.0312, Test Acc: 68.21%
+Batch size: 128
+learning rate: 0.1631711006253251
+
+Epoch: 78
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 79, Steps: 30889, Train Loss: 0.0267, Test Acc: 68.28%
+Batch size: 128
+learning rate: 0.1617278221289793
+
+Epoch: 79
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 80, Steps: 31280, Train Loss: 0.0228, Test Acc: 68.28%
+Batch size: 128
+learning rate: 0.16026346363792565
+
+Epoch: 80
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 81, Steps: 31671, Train Loss: 0.0240, Test Acc: 68.58%
+Batch size: 128
+learning rate: 0.15877852522924732
+
+Epoch: 81
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 82, Steps: 32062, Train Loss: 0.0213, Test Acc: 68.30%
+Batch size: 128
+learning rate: 0.15727351400805054
+
+Epoch: 82
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 83, Steps: 32453, Train Loss: 0.0219, Test Acc: 68.95%
+Batch size: 128
+learning rate: 0.15574894393428856
+
+Epoch: 83
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 84, Steps: 32844, Train Loss: 0.0187, Test Acc: 68.48%
+Batch size: 128
+learning rate: 0.15420533564724495
+
+Epoch: 84
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 85, Steps: 33235, Train Loss: 0.0181, Test Acc: 68.24%
+Batch size: 128
+learning rate: 0.15264321628773558
+
+Epoch: 85
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 86, Steps: 33626, Train Loss: 0.0186, Test Acc: 68.44%
+Batch size: 128
+learning rate: 0.1510631193180907
+
+Epoch: 86
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 87, Steps: 34017, Train Loss: 0.0184, Test Acc: 68.36%
+Batch size: 128
+learning rate: 0.1494655843399779
+
+Epoch: 87
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 88, Steps: 34408, Train Loss: 0.0168, Test Acc: 68.45%
+Batch size: 128
+learning rate: 0.14785115691012865
+
+Epoch: 88
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 89, Steps: 34799, Train Loss: 0.0164, Test Acc: 69.01%
+Batch size: 128
+learning rate: 0.14622038835403134
+
+Epoch: 89
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 90, Steps: 35190, Train Loss: 0.0162, Test Acc: 68.87%
+Batch size: 128
+learning rate: 0.14457383557765385
+
+Epoch: 90
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 91, Steps: 35581, Train Loss: 0.0152, Test Acc: 68.71%
+Batch size: 128
+learning rate: 0.1429120608772609
+
+Epoch: 91
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 92, Steps: 35972, Train Loss: 0.0156, Test Acc: 69.07%
+Batch size: 128
+learning rate: 0.14123563174739037
+
+Epoch: 92
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 93, Steps: 36363, Train Loss: 0.0134, Test Acc: 68.85%
+Batch size: 128
+learning rate: 0.13954512068705424
+
+Epoch: 93
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 94, Steps: 36754, Train Loss: 0.0146, Test Acc: 68.75%
+Batch size: 128
+learning rate: 0.13784110500423105
+
+Epoch: 94
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 95, Steps: 37145, Train Loss: 0.0135, Test Acc: 68.83%
+Batch size: 128
+learning rate: 0.13612416661871532
+
+Epoch: 95
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 96, Steps: 37536, Train Loss: 0.0125, Test Acc: 68.91%
+Batch size: 128
+learning rate: 0.13439489186339282
+
+Epoch: 96
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 97, Steps: 37927, Train Loss: 0.0149, Test Acc: 68.78%
+Batch size: 128
+learning rate: 0.13265387128400832
+
+Epoch: 97
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 98, Steps: 38318, Train Loss: 0.0120, Test Acc: 68.95%
+Batch size: 128
+learning rate: 0.13090169943749475
+
+Epoch: 98
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 99, Steps: 38709, Train Loss: 0.0111, Test Acc: 69.31%
+Batch size: 128
+learning rate: 0.12913897468893248
+
+Epoch: 99
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 100, Steps: 39100, Train Loss: 0.0119, Test Acc: 69.14%
+Batch size: 128
+learning rate: 0.1273662990072083
+
+Epoch: 100
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 101, Steps: 39491, Train Loss: 0.0104, Test Acc: 69.10%
+Batch size: 128
+learning rate: 0.12558427775944356
+
+Epoch: 101
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 102, Steps: 39882, Train Loss: 0.0098, Test Acc: 69.01%
+Batch size: 128
+learning rate: 0.12379351950426187
+
+Epoch: 102
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 103, Steps: 40273, Train Loss: 0.0093, Test Acc: 69.57%
+Batch size: 128
+learning rate: 0.12199463578396688
+
+Epoch: 103
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 104, Steps: 40664, Train Loss: 0.0091, Test Acc: 69.18%
+Batch size: 128
+learning rate: 0.12018824091570102
+
+Epoch: 104
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 105, Steps: 41055, Train Loss: 0.0091, Test Acc: 69.26%
+Batch size: 128
+learning rate: 0.11837495178165702
+
+Epoch: 105
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 106, Steps: 41446, Train Loss: 0.0073, Test Acc: 69.79%
+Batch size: 128
+learning rate: 0.116555387618413
+
+Epoch: 106
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 107, Steps: 41837, Train Loss: 0.0071, Test Acc: 69.54%
+Batch size: 128
+learning rate: 0.11473016980546376
+
+Epoch: 107
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 108, Steps: 42228, Train Loss: 0.0074, Test Acc: 69.53%
+Batch size: 128
+learning rate: 0.11289992165302035
+
+Epoch: 108
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 109, Steps: 42619, Train Loss: 0.0067, Test Acc: 69.62%
+Batch size: 128
+learning rate: 0.11106526818915008
+
+Epoch: 109
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 110, Steps: 43010, Train Loss: 0.0075, Test Acc: 69.82%
+Batch size: 128
+learning rate: 0.1092268359463302
+
+Epoch: 110
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 111, Steps: 43401, Train Loss: 0.0073, Test Acc: 69.66%
+Batch size: 128
+learning rate: 0.1073852527474874
+
+Epoch: 111
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 112, Steps: 43792, Train Loss: 0.0071, Test Acc: 69.55%
+Batch size: 128
+learning rate: 0.105541147491597
+
+Epoch: 112
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 113, Steps: 44183, Train Loss: 0.0064, Test Acc: 69.48%
+Batch size: 128
+learning rate: 0.10369514993891449
+
+Epoch: 113
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 114, Steps: 44574, Train Loss: 0.0063, Test Acc: 69.27%
+Batch size: 128
+learning rate: 0.10184789049591299
+
+Epoch: 114
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 115, Steps: 44965, Train Loss: 0.0058, Test Acc: 69.31%
+Batch size: 128
+learning rate: 0.1
+
+Epoch: 115
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 116, Steps: 45356, Train Loss: 0.0053, Test Acc: 69.38%
+Batch size: 128
+learning rate: 0.09815210950408704
+
+Epoch: 116
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 117, Steps: 45747, Train Loss: 0.0056, Test Acc: 69.29%
+Batch size: 128
+learning rate: 0.09630485006108552
+
+Epoch: 117
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 118, Steps: 46138, Train Loss: 0.0048, Test Acc: 69.65%
+Batch size: 128
+learning rate: 0.09445885250840302
+
+Epoch: 118
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 119, Steps: 46529, Train Loss: 0.0050, Test Acc: 69.63%
+Batch size: 128
+learning rate: 0.09261474725251262
+
+Epoch: 119
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 120, Steps: 46920, Train Loss: 0.0044, Test Acc: 69.84%
+Batch size: 128
+learning rate: 0.09077316405366981
+
+Epoch: 120
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 121, Steps: 47311, Train Loss: 0.0049, Test Acc: 69.78%
+Batch size: 128
+learning rate: 0.08893473181084993
+
+Epoch: 121
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 122, Steps: 47702, Train Loss: 0.0044, Test Acc: 69.92%
+Batch size: 128
+learning rate: 0.08710007834697969
+
+Epoch: 122
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 123, Steps: 48093, Train Loss: 0.0046, Test Acc: 70.04%
+Batch size: 128
+learning rate: 0.08526983019453628
+
+Epoch: 123
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 124, Steps: 48484, Train Loss: 0.0038, Test Acc: 70.04%
+Batch size: 128
+learning rate: 0.083444612381587
+
+Epoch: 124
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 125, Steps: 48875, Train Loss: 0.0036, Test Acc: 69.85%
+Batch size: 128
+learning rate: 0.08162504821834296
+
+Epoch: 125
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 126, Steps: 49266, Train Loss: 0.0035, Test Acc: 69.94%
+Batch size: 128
+learning rate: 0.07981175908429898
+
+Epoch: 126
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 127, Steps: 49657, Train Loss: 0.0035, Test Acc: 70.08%
+Batch size: 128
+learning rate: 0.07800536421603316
+
+Epoch: 127
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 128, Steps: 50048, Train Loss: 0.0034, Test Acc: 70.01%
+Batch size: 128
+learning rate: 0.07620648049573815
+
+Epoch: 128
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 129, Steps: 50439, Train Loss: 0.0036, Test Acc: 70.10%
+Batch size: 128
+learning rate: 0.07441572224055644
+
+Epoch: 129
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 130, Steps: 50830, Train Loss: 0.0034, Test Acc: 70.01%
+Batch size: 128
+learning rate: 0.07263370099279172
+
+Epoch: 130
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 131, Steps: 51221, Train Loss: 0.0033, Test Acc: 70.03%
+Batch size: 128
+learning rate: 0.07086102531106754
+
+Epoch: 131
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 132, Steps: 51612, Train Loss: 0.0036, Test Acc: 69.89%
+Batch size: 128
+learning rate: 0.06909830056250527
+
+Epoch: 132
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 133, Steps: 52003, Train Loss: 0.0032, Test Acc: 69.85%
+Batch size: 128
+learning rate: 0.06734612871599169
+
+Epoch: 133
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 134, Steps: 52394, Train Loss: 0.0033, Test Acc: 69.85%
+Batch size: 128
+learning rate: 0.06560510813660718
+
+Epoch: 134
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 135, Steps: 52785, Train Loss: 0.0028, Test Acc: 69.93%
+Batch size: 128
+learning rate: 0.0638758333812847
+
+Epoch: 135
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 136, Steps: 53176, Train Loss: 0.0031, Test Acc: 69.96%
+Batch size: 128
+learning rate: 0.06215889499576898
+
+Epoch: 136
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 137, Steps: 53567, Train Loss: 0.0031, Test Acc: 70.15%
+Batch size: 128
+learning rate: 0.060454879312945756
+
+Epoch: 137
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 138, Steps: 53958, Train Loss: 0.0031, Test Acc: 70.08%
+Batch size: 128
+learning rate: 0.05876436825260967
+
+Epoch: 138
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 139, Steps: 54349, Train Loss: 0.0030, Test Acc: 70.18%
+Batch size: 128
+learning rate: 0.057087939122739156
+
+Epoch: 139
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 140, Steps: 54740, Train Loss: 0.0025, Test Acc: 70.13%
+Batch size: 128
+learning rate: 0.055426164422346186
+
+Epoch: 140
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 141, Steps: 55131, Train Loss: 0.0026, Test Acc: 70.10%
+Batch size: 128
+learning rate: 0.0537796116459687
+
+Epoch: 141
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 142, Steps: 55522, Train Loss: 0.0029, Test Acc: 69.91%
+Batch size: 128
+learning rate: 0.05214884308987136
+
+Epoch: 142
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 143, Steps: 55913, Train Loss: 0.0026, Test Acc: 70.09%
+Batch size: 128
+learning rate: 0.05053441566002214
+
+Epoch: 143
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 144, Steps: 56304, Train Loss: 0.0025, Test Acc: 70.13%
+Batch size: 128
+learning rate: 0.04893688068190932
+
+Epoch: 144
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 145, Steps: 56695, Train Loss: 0.0025, Test Acc: 69.94%
+Batch size: 128
+learning rate: 0.04735678371226441
+
+Epoch: 145
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 146, Steps: 57086, Train Loss: 0.0029, Test Acc: 69.96%
+Batch size: 128
+learning rate: 0.04579466435275506
+
+Epoch: 146
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 147, Steps: 57477, Train Loss: 0.0027, Test Acc: 70.03%
+Batch size: 128
+learning rate: 0.04425105606571145
+
+Epoch: 147
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 148, Steps: 57868, Train Loss: 0.0024, Test Acc: 70.05%
+Batch size: 128
+learning rate: 0.04272648599194948
+
+Epoch: 148
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 149, Steps: 58259, Train Loss: 0.0024, Test Acc: 69.81%
+Batch size: 128
+learning rate: 0.0412214747707527
+
+Epoch: 149
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 150, Steps: 58650, Train Loss: 0.0021, Test Acc: 70.17%
+Batch size: 128
+learning rate: 0.03973653636207437
+
+Epoch: 150
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 151, Steps: 59041, Train Loss: 0.0020, Test Acc: 69.98%
+Batch size: 128
+learning rate: 0.03827217787102072
+
+Epoch: 151
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 152, Steps: 59432, Train Loss: 0.0021, Test Acc: 69.78%
+Batch size: 128
+learning rate: 0.03682889937467493
+
+Epoch: 152
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 153, Steps: 59823, Train Loss: 0.0021, Test Acc: 70.13%
+Batch size: 128
+learning rate: 0.035407193751321286
+
+Epoch: 153
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 154, Steps: 60214, Train Loss: 0.0022, Test Acc: 70.04%
+Batch size: 128
+learning rate: 0.03400754651212776
+
+Epoch: 154
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 155, Steps: 60605, Train Loss: 0.0022, Test Acc: 69.96%
+Batch size: 128
+learning rate: 0.03263043563534431
+
+Epoch: 155
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 156, Steps: 60996, Train Loss: 0.0018, Test Acc: 69.99%
+Batch size: 128
+learning rate: 0.03127633140307373
+
+Epoch: 156
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 157, Steps: 61387, Train Loss: 0.0017, Test Acc: 70.01%
+Batch size: 128
+learning rate: 0.029945696240670908
+
+Epoch: 157
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 158, Steps: 61778, Train Loss: 0.0022, Test Acc: 70.13%
+Batch size: 128
+learning rate: 0.028638984558824777
+
+Epoch: 158
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 159, Steps: 62169, Train Loss: 0.0019, Test Acc: 70.06%
+Batch size: 128
+learning rate: 0.0273566425983776
+
+Epoch: 159
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 160, Steps: 62560, Train Loss: 0.0021, Test Acc: 70.16%
+Batch size: 128
+learning rate: 0.026099108277934102
+
+Epoch: 160
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 161, Steps: 62951, Train Loss: 0.0022, Test Acc: 70.12%
+Batch size: 128
+learning rate: 0.024866811044312667
+
+Epoch: 161
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 162, Steps: 63342, Train Loss: 0.0019, Test Acc: 69.93%
+Batch size: 128
+learning rate: 0.023660171725889703
+
+Epoch: 162
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 163, Steps: 63733, Train Loss: 0.0019, Test Acc: 70.13%
+Batch size: 128
+learning rate: 0.02247960238888701
+
+Epoch: 163
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 164, Steps: 64124, Train Loss: 0.0015, Test Acc: 70.11%
+Batch size: 128
+learning rate: 0.02132550619665168
+
+Epoch: 164
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 165, Steps: 64515, Train Loss: 0.0019, Test Acc: 70.08%
+Batch size: 128
+learning rate: 0.020198277271976053
+
+Epoch: 165
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 166, Steps: 64906, Train Loss: 0.0020, Test Acc: 70.16%
+Batch size: 128
+learning rate: 0.019098300562505267
+
+Epoch: 166
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 167, Steps: 65297, Train Loss: 0.0016, Test Acc: 70.24%
+Batch size: 128
+learning rate: 0.0180259517092779
+
+Epoch: 167
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 168, Steps: 65688, Train Loss: 0.0017, Test Acc: 70.05%
+Batch size: 128
+learning rate: 0.016981596918444954
+
+Epoch: 168
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 169, Steps: 66079, Train Loss: 0.0016, Test Acc: 70.05%
+Batch size: 128
+learning rate: 0.01596559283621074
+
+Epoch: 169
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 170, Steps: 66470, Train Loss: 0.0017, Test Acc: 70.11%
+Batch size: 128
+learning rate: 0.014978286427038601
+
+Epoch: 170
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 171, Steps: 66861, Train Loss: 0.0019, Test Acc: 70.15%
+Batch size: 128
+learning rate: 0.014020014855162778
+
+Epoch: 171
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 172, Steps: 67252, Train Loss: 0.0017, Test Acc: 70.15%
+Batch size: 128
+learning rate: 0.013091105369447166
+
+Epoch: 172
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 173, Steps: 67643, Train Loss: 0.0016, Test Acc: 70.18%
+Batch size: 128
+learning rate: 0.01219187519163021
+
+Epoch: 173
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 174, Steps: 68034, Train Loss: 0.0016, Test Acc: 70.15%
+Batch size: 128
+learning rate: 0.011322631407993812
+
+Epoch: 174
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 175, Steps: 68425, Train Loss: 0.0016, Test Acc: 70.28%
+Batch size: 128
+learning rate: 0.010483670864493777
+
+Epoch: 175
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 176, Steps: 68816, Train Loss: 0.0019, Test Acc: 70.11%
+Batch size: 128
+learning rate: 0.009675280065387116
+
+Epoch: 176
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 177, Steps: 69207, Train Loss: 0.0016, Test Acc: 70.19%
+Batch size: 128
+learning rate: 0.008897735075391155
+
+Epoch: 177
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 178, Steps: 69598, Train Loss: 0.0017, Test Acc: 70.33%
+Batch size: 128
+learning rate: 0.008151301425407698
+
+Epoch: 178
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 179, Steps: 69989, Train Loss: 0.0015, Test Acc: 70.14%
+Batch size: 128
+learning rate: 0.007436234021844368
+
+Epoch: 179
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 180, Steps: 70380, Train Loss: 0.0014, Test Acc: 70.18%
+Batch size: 128
+learning rate: 0.006752777059564419
+
+Epoch: 180
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 181, Steps: 70771, Train Loss: 0.0015, Test Acc: 70.24%
+Batch size: 128
+learning rate: 0.006101163938494348
+
+Epoch: 181
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 182, Steps: 71162, Train Loss: 0.0016, Test Acc: 70.26%
+Batch size: 128
+learning rate: 0.005481617183918053
+
+Epoch: 182
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 183, Steps: 71553, Train Loss: 0.0017, Test Acc: 70.05%
+Batch size: 128
+learning rate: 0.004894348370484647
+
+Epoch: 183
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 184, Steps: 71944, Train Loss: 0.0019, Test Acc: 70.28%
+Batch size: 128
+learning rate: 0.004339558049955928
+
+Epoch: 184
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 185, Steps: 72335, Train Loss: 0.0015, Test Acc: 70.20%
+Batch size: 128
+learning rate: 0.0038174356827180957
+
+Epoch: 185
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 186, Steps: 72726, Train Loss: 0.0015, Test Acc: 70.21%
+Batch size: 128
+learning rate: 0.0033281595730812576
+
+Epoch: 186
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 187, Steps: 73117, Train Loss: 0.0016, Test Acc: 70.27%
+Batch size: 128
+learning rate: 0.0028718968083886187
+
+Epoch: 187
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 188, Steps: 73508, Train Loss: 0.0014, Test Acc: 70.24%
+Batch size: 128
+learning rate: 0.00244880320195634
+
+Epoch: 188
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 189, Steps: 73899, Train Loss: 0.0015, Test Acc: 70.33%
+Batch size: 128
+learning rate: 0.0020590232398634114
+
+Epoch: 189
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 190, Steps: 74290, Train Loss: 0.0018, Test Acc: 70.34%
+Batch size: 128
+learning rate: 0.0017026900316098215
+
+Epoch: 190
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 191, Steps: 74681, Train Loss: 0.0018, Test Acc: 70.17%
+Batch size: 128
+learning rate: 0.0013799252646597426
+
+Epoch: 191
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 192, Steps: 75072, Train Loss: 0.0015, Test Acc: 70.25%
+Batch size: 128
+learning rate: 0.0010908391628854043
+
+Epoch: 192
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 193, Steps: 75463, Train Loss: 0.0013, Test Acc: 70.08%
+Batch size: 128
+learning rate: 0.0008355304489257254
+
+Epoch: 193
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 194, Steps: 75854, Train Loss: 0.0018, Test Acc: 70.22%
+Batch size: 128
+learning rate: 0.0006140863104726391
+
+Epoch: 194
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 195, Steps: 76245, Train Loss: 0.0018, Test Acc: 70.33%
+Batch size: 128
+learning rate: 0.00042658237049655325
+
+Epoch: 195
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 196, Steps: 76636, Train Loss: 0.0017, Test Acc: 70.20%
+Batch size: 128
+learning rate: 0.0002730826614211979
+
+Epoch: 196
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 197, Steps: 77027, Train Loss: 0.0014, Test Acc: 70.28%
+Batch size: 128
+learning rate: 0.00015363960325660565
+
+Epoch: 197
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 198, Steps: 77418, Train Loss: 0.0016, Test Acc: 70.24%
+Batch size: 128
+learning rate: 6.82939856977094e-05
+
+Epoch: 198
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 199, Steps: 77809, Train Loss: 0.0013, Test Acc: 70.42%
+Batch size: 128
+learning rate: 1.7074954194729042e-05
+
+Epoch: 199
+Saving checkpoint to checkpoint/test2_sgd.pth.tar...
+Epoch: 200, Steps: 78200, Train Loss: 0.0017, Test Acc: 70.39%
